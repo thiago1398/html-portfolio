@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(235, 221, 197);
+}
+a{
+    color: black;
+}
+footer{
+    background-color: rgb(235, 223, 157);
+    height: 300px;
+    display: flex;
+}
+footer>h2{
+    margin-left: 50px;
+}
